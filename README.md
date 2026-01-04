@@ -15,11 +15,12 @@ Riwa is an e-commerce website dedicated to selling handmade bags crafted with be
 * Full integration between front-end and back-end.
 
 ## 🛠️ Technologies Used
-* HTML
-* CSS
-* JavaScript
-* PHP
-* MySQL
+* HTML.
+* CSS.
+* Bootstrap.
+* JavaScript.
+* PHP.
+* MySQL.
 
 ## 🖼️ Key Features
 * Elegant and modern user interface.
