@@ -27,3 +27,8 @@ Riwa is an e-commerce website dedicated to selling handmade bags crafted with be
 * Easy navigation and product browsing.
 * Organized product management dashboard.
 * Scalable structure for future growth.
+
+
+## 🎥 Project Demo
+Click below to view the demo video:
+[![Video Preview](images/2.png)](https://drive.google.com/file/d/11010STlQqtTZHhbiDF9zvn0xsFkpt7RR/view?usp=sharing)
