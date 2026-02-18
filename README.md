@@ -27,7 +27,7 @@ Riwa is a full-stack e-commerce website for selling handmade beaded and crystal 
 ## 🛠️ Technologies Used
 * Front-end: HTML, CSS, Bootstrap, JavaScript.
 * Back-end: PHP, MySQL.
-* Tools: XAMPP / Local Server.
+* Tools: XAMPP.
 
 
 ## 🖼️ Key Features
